@@ -21,7 +21,7 @@
 
 ## ✋ It's Me ✋
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:@gmail.com)
+[![mail Badge](https://img.shields.io/badge/Kakao%20Mail-D14836?style=flat&logo=mail&logoColor=white)](mailto:pstor@kakao.com)
 [![Site](https://img.shields.io/badge/Pstor%20Web%20Site-1eb031?style=flat&logoColor=white)]()
 [![Tistory Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://pstor-kr.tistory.com/)
 
