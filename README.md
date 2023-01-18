@@ -12,13 +12,6 @@
 - 🧬 My area of interest is medical security.
 - 💻 My major is Cyber Security Engineering
 
-## My favorite security field
-
-    Hello, I am currently a student studying cyber security.
-    My track is digital forensics and my area of interest is medical security.
-
-<div align="center">
-
 ## ✋ It's Me ✋
 
 [![mail Badge](https://img.shields.io/badge/Kakao%20Mail-D14836?style=flat&logo=mail&logoColor=white)](mailto:pstor@kakao.com)
@@ -27,10 +20,15 @@
 
 <div align="center">
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pstor-eon&hide=contribs,prs) -->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pstor-eon&hide=contribs,prs)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstor-eon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pstor-eon&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpstor-eon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pstor-eon&theme=graywhite&show_icons=true" width="49%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pstor-eon&layout=compact" width="41.5%" >
+</div>
+
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpstor-eon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 </div>
