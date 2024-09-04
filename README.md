@@ -6,11 +6,11 @@
 </div>
 
 ## Who Am I 👋
-- 👋 Hi, I’m @pstor-eon  
-- 🎓 Currently learning Cyber Security, with a focus on digital forensics.  
-- 🧬 Passionate about securing medical systems.  
-- 🚗 Exploring automotive security.  
+- 👋 Hi, I’m @pstor-eon
 - 💻 Majoring in Cyber Security Engineering.
+- 🎓 Currently learning Cyber Security, with a focus on digital forensics.
+- 🧬 Passionate about securing medical systems.
+- 🚗 Exploring automotive security.
 
 ## ✋ It's Me ✋
 [![mail Badge](https://img.shields.io/badge/Kakao%20Mail-D14836?style=flat&logo=mail&logoColor=white)](mailto:pstor@kakao.com)
