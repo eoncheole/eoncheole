@@ -8,7 +8,7 @@
 ## Who Am I 👋
 - 👋 Hi, I’m @pstor-eon
 - 💻 Majoring in Cyber Security Engineering.
-- 🎓 Currently learning Cyber Security, with a focus on digital forensics.
+- 🎓 Currently learning Cyber Security, with a focus on digital forensics [Mac OS].
 - 🧬 Passionate about securing medical systems.
 - 🚗 Exploring automotive security.
 
