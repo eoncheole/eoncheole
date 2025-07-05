@@ -1,10 +1,3 @@
-# PSTOR 😎
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=135&section=header&text=cheoleon%20profile&fontSize=75)
-
-</div>
-
 ## Who Am I 👋
 - 👋 Hi, I’m cheoleon @pstor-eon
 - 💻 Majoring in Cyber Security Engineering.
